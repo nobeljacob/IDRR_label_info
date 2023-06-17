@@ -79,4 +79,11 @@ python train.py \
 
 2. This codebase requires the GloVe embeddings 42b version to be downloaded and placed at the same level as the train.py file.
 
+3. To enable prototypical discourse connectives, copy the contents of the model_proto_dc.py file into the current model.py that contains code for parent-child addition.
+
+
+
+
+
+
    
