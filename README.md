@@ -1,7 +1,7 @@
 # IDRR_label_info
 Master thesis codebase
 
-Refactored code base for enhancing label representations through the utilization of alternative label representations. <https://aclanthology.org/2023.codi-1.13.pdf>
+Refactored code base for enhancing label representations through the utilization of alternative label representations. Accepted in CODI 2023. link- <https://aclanthology.org/2023.codi-1.13.pdf>
 
 
 
